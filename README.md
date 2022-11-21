@@ -8,3 +8,4 @@ Around that point the airplane realises the close proximity of the airport and m
 The program isn't perfect and the same offset-values probably don't yet work for all levels
 1. Dodging of other planes should have a order in which the planes dodge others so that all planes don't dodge equally ( perhaps by id order )
 2. The offset-values should be refined
+3. Code refactoring ( methods grouped to modules, some reasoning behind offset constants )
